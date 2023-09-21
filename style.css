@@ -1,0 +1,20 @@
+#name{
+    text-align: center;
+    font-weight: bold;
+}
+#address{
+    text-align: center;
+    font-weight: lighter;
+}
+#info{
+    text-align: center;
+    font-weight: lighter;
+    color: skyblue;
+}
+.divclass{
+    font-weight: normal;
+}
+#bodyclass{
+    margin: 100px;
+    padding: 100px;
+}
